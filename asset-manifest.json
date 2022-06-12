@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a402aff9.css",
+    "main.js": "/static/js/main.776ce490.js",
+    "static/media/slide1.png": "/static/media/slide1.154db46876bcbb72aba3.png",
+    "static/media/NotoSans-Regular.ttf": "/static/media/NotoSans-Regular.eae34fa8f1e0c4c6d797.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/slideBuero.JPG": "/static/media/slideBuero.1da9f8142ed0438c2428.JPG",
+    "static/media/slideFewo2.png": "/static/media/slideFewo2.91cb38d6d011166254bd.png",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/slideViele.JPG": "/static/media/slideViele.dad3fdbf1a74465a78d1.JPG",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Oxygen-Regular.ttf": "/static/media/Oxygen-Regular.56e5848476493abbd93e.ttf",
+    "static/media/cookie.png": "/static/media/cookie.ee491efa3b2e74a5ca06.png",
+    "static/media/logo.png": "/static/media/logo.92bbebf88438ca7c17e0.png",
+    "static/media/about.png": "/static/media/about.2b36c34b9f40f9ca39a7.png",
+    "static/media/place.png": "/static/media/place.0d03d1de497ca01e371a.png",
+    "static/media/no.png": "/static/media/no.5ec8f933fede4d8fe15b.png",
+    "static/media/conversation.png": "/static/media/conversation.e7a1014a01e8072f2578.png",
+    "static/media/new.png": "/static/media/new.6c2a61f77311564cdaba.png",
+    "static/media/contact.png": "/static/media/contact.9d02bdcb0a88701657d9.png",
+    "static/media/twitter.png": "/static/media/twitter.94db4a073d271647bc82.png",
+    "index.html": "/index.html",
+    "main.a402aff9.css.map": "/static/css/main.a402aff9.css.map",
+    "main.776ce490.js.map": "/static/js/main.776ce490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a402aff9.css",
+    "static/js/main.776ce490.js"
+  ]
+}
